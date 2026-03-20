@@ -9,9 +9,9 @@ Boilerplate setup for a Python machine coding round.
 source venv/bin/activate
 ```
 
-2. Run tests:
+2. Run Code:
 ```bash
-pytest
+python main.py
 ```
 
 ## REST APIs
